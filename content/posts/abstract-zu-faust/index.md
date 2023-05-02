@@ -1,7 +1,7 @@
 +++
 title = "Abstract zu Faust"
 date = "2023-05-02"
-draft = true
+draft = false
 pinned = false
 tags = ["Faust", "Deutsch", "Literatur", "Literaturgeschichte"]
 description = "Im Text von Kindlers Literatur Lexikon «Johann Wolfgang von Goethe – Faust», geschrieben von Ulrike Landfester, geht es um das Tragödien-Projekt Faust von Johann Wolfgang von Goethe. Dabei geht es sowohl um die Entstehung so wie auch die Verbreitung der Tragödie. "
