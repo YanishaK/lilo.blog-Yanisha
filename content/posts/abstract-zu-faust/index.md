@@ -4,6 +4,7 @@ date = "2023-05-02"
 draft = false
 pinned = false
 tags = ["Faust", "Deutsch", "Literatur", "Literaturgeschichte"]
+image = "img_1750.jpeg"
 description = "Im Text von Kindlers Literatur Lexikon «Johann Wolfgang von Goethe – Faust», geschrieben von Ulrike Landfester, geht es um das Tragödien-Projekt Faust von Johann Wolfgang von Goethe. Dabei geht es sowohl um die Entstehung so wie auch die Verbreitung der Tragödie. "
 footnotes = "**Quelle:**\n\n*«Johann Wolfgang von Goethe – Faust»* aus Munzinger Online/Kindlers Literatur Lexikon*,* <https://online.munzinger.de/article/22000241600_120> (abgerufen am 03.02.2023)"
 +++
